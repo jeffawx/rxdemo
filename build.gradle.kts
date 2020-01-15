@@ -23,8 +23,8 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
 
-    implementation("com.airwallex.common:common-rx:1.1.6.6")
-    implementation("com.airwallex.common:common-postgres:1.1.6.6")
+    implementation("com.airwallex.common:common-rx:1.1.7")
+    implementation("com.airwallex.common:common-postgres:1.1.7")
     implementation("org.springframework.boot.experimental:spring-boot-starter-data-r2dbc")
     runtimeOnly("io.r2dbc:r2dbc-postgresql")
 
